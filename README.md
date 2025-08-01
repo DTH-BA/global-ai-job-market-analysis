@@ -46,8 +46,8 @@ This project investigates the following key questions:
 
 This project is intended for:
 
-- 🧑‍💼 Hiring managers and recruiters in small-to-medium tech companies  
-- 🧭 Workforce planners in HR adapting to AI labor trends  
-- 📈 Data enthusiasts and junior analysts learning real-world HR analytics  
-- 🎓 Career developers exploring valuable AI skillsets
+- Hiring managers and recruiters in small-to-medium tech companies  
+- Workforce planners in HR adapting to AI labor trends  
+- Data enthusiasts and junior analysts learning real-world HR analytics  
+- Career developers exploring valuable AI skillsets
 
