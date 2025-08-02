@@ -21,7 +21,7 @@ The project consists of two main parts:
 ### 2.1 Descriptive Analysis
 - Identify which industries and job roles dominate the current AI job market.
 - Examine how **remote vs hybrid vs onsite** work models are evolving.
-- Explore trends in **compensation, benefits, and required skills**.
+- Explore trends in **work experience, education requirements, and required skills**.
 - Compare salary distributions across industries to understand volatility.
 
 ### 2.2 Predictive Modeling
