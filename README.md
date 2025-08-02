@@ -30,16 +30,17 @@ The project consists of two main parts:
 
 ---
 
-## ❓ 3. Analytical Questions
+## ❓  3. Revised Analytical Questions
 
-This project investigates the following key questions:
+This exploratory analysis focuses on the following key questions based on available data:
 
-1. Which AI-related job titles are in highest demand across different quarters and months?
-2. Which job roles benefit or suffer from AI disruption?
-3. What are the most essential skills across industries and job roles?
-4. Which features most strongly correlate with salary: role, skills, industry, education, etc.?
-5. Are salary distributions significantly different across job titles within the same industry?
+1. Which AI-related job titles are in highest demand across different time periods and countries?
+2. How do AI job postings trend over time, particularly in SMEs?
+3. What are the most sought-after technical skills in AI job postings?
+4. How do salaries vary based on job title, experience, remote work ratio, company size, and industry?
+5. What is the relationship between education level and AI job availability or salary potential?
 
+*Note: The original question regarding job roles affected by AI disruption is not addressed in this phase due to data limitations.*
 ---
 
 ## 👥 4. Target Audience
